@@ -8,7 +8,7 @@ Unauthorized copying, modification, distribution, use, or reverse engineering is
 [![TensorFlow 2.15](https://img.shields.io/badge/TensorFlow-2.15-orange.svg)](https://tensorflow.org)
 [![MLflow](https://img.shields.io/badge/MLflow-Tracking-green.svg)](https://mlflow.org)
 [![Docker](https://img.shields.io/badge/Docker-Ready-2496ED.svg)](https://docker.com)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Licence : propriétaire](https://img.shields.io/badge/Licence-propri%C3%A9taire-lightgrey.svg)](LICENSE)
 
 > Pipeline de Computer Vision pour la **détection et la classification de la rétinopathie diabétique** à partir d'images de fond d'œil, conçu pour assister les radiologues dans l'analyse d'images médicales.
 
@@ -276,7 +276,9 @@ mlflow ui --port 5000
 
 ## 📄 Licence
 
-MIT — Voir [LICENSE](LICENSE) pour les détails.
+Code publié pour lecture et évaluation, sous licence propriétaire (tous droits réservés) — voir [LICENSE](LICENSE).
+
+> Projet de recherche et de démonstration : ce n'est pas un dispositif médical et il ne pose aucun diagnostic.
 
 ---
 
